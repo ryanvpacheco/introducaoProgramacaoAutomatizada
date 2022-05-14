@@ -1,2 +1,1 @@
-# introducaoProgramacaoAutomatizada
-Aulas de introdução a programção
+#AULAS DE INTRODUÇÃO A PROGRAMAÇÃO
